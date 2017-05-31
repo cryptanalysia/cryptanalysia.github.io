@@ -1,7 +1,7 @@
 # Site
 title: Cryptanalysia
 description: Authentico et secreto
-#url: https://taylantatli.github.io/Halve
+url: https://cryptanalysia.github.io
 logo: key.png                                       # Site logo
 locale: en_US
 
@@ -33,7 +33,7 @@ sass:
 #google.plus:        username
 twitter:            cosicbe
 facebook:           cosicbe
-#github:             username
+github:             Cryptanalysia
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
