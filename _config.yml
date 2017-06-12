@@ -32,7 +32,8 @@ sass:
 #email:             email
 #google.plus:        username
 twitter:            cosicbe
-facebook:           cosicbe
+facebook:           cryptanalysia
+facebook2:          cosicbe
 github:             Cryptanalysia
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -42,9 +43,9 @@ github:             Cryptanalysia
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
-#youtube:           username
+youtube:            channel/UC3lOE2AgZZ4XH9jipgeQL5Q
 #soundcloud:        username
 #weibo:             username
 #flickr:            username

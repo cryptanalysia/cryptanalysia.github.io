@@ -1,33 +1,25 @@
-- title: Loco loco loco
-  url: /loco.html
+- title: Cryptanalysia
+  url: /index.html
+  image: cryptanalysia.github.io/images/cryptanalysia.png
   completed: true
 
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Keybase
+  url: http://keybase.io
+  image: cryptanalysia.github.io/images/key.png
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: Cosic website
+  url: http://esat.kuleuven.be/cosic/
+  image: https://www.kuleuven.be/slides/shows/resizer.php?src=ent_224/img/group-picture.jpg&hr=300&wr=580&hc=300&wc=580
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+- title: Bart Preneel
+  url: https://en.wikipedia.org/wiki/Bart_Preneel
+  image: https://eng.kuleuven.be/over_ons/evenementen/arenbergsymposium-2014/fotos-arenbergsymposium-2014/mg-8848.jpg/image_large
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
+- title: Vincent Rijmen
+  url: https://en.wikipedia.org/wiki/Vincent_Rijmen
+  image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Vincent-Rijmen.jpg
+  completed: true
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
