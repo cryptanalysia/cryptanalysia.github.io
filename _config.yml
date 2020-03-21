@@ -1,7 +1,7 @@
 # Site
 title: Cryptanalysia
 description: Authentico et secreto
-url: https://cryptanalysia.github.io
+# url: https://cryptanalysia.github.io
 logo: key.png                                       # Site logo
 locale: en_US
 
